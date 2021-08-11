@@ -1,0 +1,2 @@
+# deeplearning_advanced_learning
+深度学习入门的仓库，不借助任何深度学习框架，仅使用numpy，pandas和其他一些可视化安装包完成了网络层的搭建和训练。
